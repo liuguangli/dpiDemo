@@ -1,5 +1,6 @@
 # dpiDemo
 一个简单的例子，多角度全方位说明px、dp的关系及分辨率适配
+![不同设备对比](alldpi.png)
 #屏幕尺寸：inch 
 屏幕的物理尺寸。衡量标准是屏幕的对角线的长度。
 Android设备屏幕尺寸划分为四大类：small，normal，large，extra－large
